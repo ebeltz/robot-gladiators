@@ -166,7 +166,7 @@ var shop = function() {
 };
 
 /* END GAME FUNCTIONS */
-
+//
 /* GAME INFORMATION / VARIABLES */
 
 // player information
